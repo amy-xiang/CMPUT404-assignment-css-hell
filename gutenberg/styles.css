@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital@1&display=swap");
+
+body {
+  /* Referenced from  https://stackoverflow.com/questions/14585101/old-paper-background-texture-with-just-css */
+  background-image: url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffffff&noise=5c5c5c&density=13&opacity=62);
+  background-color: rgb(255, 251, 247);
+  font-family: "Cardo", serif;
+  margin: 10%;
+  text-align: justify;
+}
+
+h1 {
+  letter-spacing: 1em;
+  font-weight: bolder;
+  color: black;
+}
+
+h2 {
+  letter-spacing: 0.5em;
+  font-weight: bold;
+  margin-top: 2em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-align: center;
+  margin-bottom: 2em;
+  text-decoration: underline;
+}
+
+p {
+  font-size: large;
+  color: black;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+a {
+  color: rgb(172, 97, 0);
+}
+
+a:hover {
+  color: black;
+}
+
+/* Referenced from original style in pride and prejudice */
+.fig {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+img {
+  border: 3px solid black;
+  padding: 20px;
+}
