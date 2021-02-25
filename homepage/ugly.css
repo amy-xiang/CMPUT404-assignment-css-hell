@@ -1,0 +1,111 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.page {
+  width: 100%;
+  height: 100%;
+}
+
+.banner {
+  width: 100%;
+  height: 25%;
+  background: rgb(36, 150, 255);
+  background: radial-gradient(
+    circle,
+    rgba(36, 150, 255, 1) 30%,
+    rgba(32, 64, 229, 1) 86%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  margin: 0 auto;
+  margin-bottom: 0.25em;
+  font-size: 5em;
+  background: linear-gradient(to right, orange, yellow, green, cyan, violet);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ul.menu-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgb(255, 214, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 214, 36, 1) 44%,
+    rgba(229, 159, 32, 1) 86%
+  );
+}
+
+.menu-item {
+  float: left;
+  border-left: 1px solid black;
+}
+
+.menu-content {
+  display: block;
+  padding: 18px 50px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.menu-content:hover {
+  background-color: rgba(66, 66, 66, 0.171);
+}
+
+.sidebar {
+  float: right;
+  background-color: gold;
+  margin-top: 1em;
+  margin-right: 0.5em;
+  width: 20%;
+  height: 70%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sidebar-content {
+  margin-left: 2em;
+}
+
+.page-content {
+  height: 75%;
+}
+
+.content-row {
+  display: inline-flex;
+  margin-left: 1em;
+  width: 76%;
+  align-items: center;
+}
+
+.image {
+  margin: 1em;
+  max-width: 250px;
+  max-height: 260px;
+}
+
+.skills-table {
+  width: 200%;
+}
+
+th {
+  text-align: left;
+}
