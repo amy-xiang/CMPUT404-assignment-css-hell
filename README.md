@@ -54,19 +54,19 @@ Code is licensed under the Apache 2.0 license.
   https://www.w3schools.com/css/css_navbar_horizontal.asp
 
 - user241244 (Feb 13, 2011), Accessed Feb 24, 2021, change bg color
-- https://stackoverflow.com/questions/4983713/css-change-list-item-background-color-with-class
+  https://stackoverflow.com/questions/4983713/css-change-list-item-background-color-with-class
 
 - W3 Schools, Accessed Feb 24, 2021, img tag
   https://www.w3schools.com/tags/tag_img.asp
 
 - W3 Schools, Accessed Feb 24, 2021, tables
-- https://www.w3schools.com/html/html_tables.asp
+  https://www.w3schools.com/html/html_tables.asp
 
 - Daniel DiPaolo (May 14, 2010) and Mcfizz (Dec 2, 2020), Accessed Feb 24, 2021, linking part of page
   https://stackoverflow.com/questions/2835140/how-do-i-link-to-part-of-a-page-hash
 
 - CSS Gradient, Accessed Feb 24, 2021
-- https://cssgradient.io/
+  https://cssgradient.io/
 
 - Google Fonts, Accessed Feb 24, 2021
   https://fonts.google.com/specimen/Roboto?thickness=2&preview.text_type=custom&sidebar.open=true&selection.family=Roboto:wght@300
@@ -75,4 +75,4 @@ Code is licensed under the Apache 2.0 license.
   https://stackoverflow.com/questions/21334839/applying-comic-sans-ms-font-style
 
 - Commercial Suicide (Nov 11, 2016), Accessed Feb 24, 2021, font gradient
-- https://stackoverflow.com/questions/40557461/rainbow-gradient-on-text-in-css/40557564
+  https://stackoverflow.com/questions/40557461/rainbow-gradient-on-text-in-css/40557564
