@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+}
+
+.page {
+  width: 100%;
+  height: 100%;
+}
+
+.banner {
+  width: 100%;
+  height: 25%;
+  background: rgb(52, 85, 236);
+  background: radial-gradient(
+    circle,
+    rgba(52, 85, 236, 1) 44%,
+    rgba(32, 40, 154, 1) 86%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.title {
+  margin: 0 auto;
+  margin-bottom: 0.5em;
+  font-size: 5em;
+  color: white;
+}
+
+ul.menu-bar {
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: black;
+  display: flex;
+  justify-content: center;
+}
+
+.menu-item {
+  float: left;
+}
+
+.menu-content {
+  display: block;
+  padding: 18px 50px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.menu-content:hover {
+  background-color: rgba(240, 239, 239, 0.349);
+}
+
+.sidebar {
+  float: right;
+  background-color: lightgray;
+  margin-top: 1em;
+  margin-right: 0.5em;
+  width: 20%;
+  height: 70%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h3,
+h4 {
+  font-weight: bolder;
+}
+
+.sidebar-content {
+  margin-left: 2em;
+}
+
+.page-content {
+  height: 75%;
+}
+
+.content-row {
+  display: inline-flex;
+  margin-left: 1em;
+  width: 76%;
+  align-items: center;
+}
+
+.image {
+  margin: 1em;
+  max-width: 250px;
+  max-height: 260px;
+  border: 5px solid;
+}
+
+.skills-table {
+  width: 200%;
+  margin-bottom: 2em;
+}
+
+th {
+  text-align: left;
+}
