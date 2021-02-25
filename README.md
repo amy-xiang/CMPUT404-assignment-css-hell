@@ -25,6 +25,9 @@ Code is licensed under the Apache 2.0 license.
 
 # References
 
+- CC-BY-SA License, Accessed Feb 24, 2021
+  https://github.com/santisoler/cc-licenses
+
 ### Gutenberg
 
 - W3 Schools, Accessed Feb 22, 2021, Add CSS to HTML
